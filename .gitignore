@@ -1,0 +1,8 @@
+requirements.txt
+streamlit
+transformers
+torch
+huggingface_hub
+datasets
+
+compre_test.py
